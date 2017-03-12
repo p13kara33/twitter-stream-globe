@@ -2698,58 +2698,232 @@ self-confident	2
 self-contradictory	-2
 self-deluded	-2
 selfish	-3
+εγωιστής -3
+\\giwrgoskaralis.2013090.cscw\\
 selfishness	-3
+εγωισμός -3
+\\giwrgoskaralis.2013090.cscw\\
+
 sentence	-2
+καταδικαζω -2
+\\giwrgoskaralis.2013090.cscw\\
+
 sentenced	-2
+καταδικάστηκε -2
+\\giwrgoskaralis.2013090.cscw\\
+
 sentences	-2
+ποινές -2
+\\giwrgoskaralis.2013090.cscw\\
+
 sentencing	-2
+καταδίκη -2
+\\giwrgoskaralis.2013090.cscw\\
+
 serene	2
+ήρεμος 2
+\\giwrgoskaralis.2013090.cscw\\
+
 settlement	1
+συμβιβασμός 1
+\\giwrgoskaralis.2013090.cscw\\
+
 settlements	1
+συμβιβασμοί 1
+\\giwrgoskaralis.2013090.cscw\\
+
 severe	-2
+σοβαρός -2
+\\giwrgoskaralis.2013090.cscw\\
+
 severely	-2
+σοβαρά -2
+\\giwrgoskaralis.2013090.cscw\\
+
 sexist	-2
+σεξισμος -2
+\\giwrgoskaralis.2013090.cscw\\
+
 sexistic	-2
+σεξιστικό -2
+\\giwrgoskaralis.2013090.cscw\\
+
 sexy	3
+σέξυ 3
+\\giwrgoskaralis.2013090.cscw\\
+
 shaky	-2
+αδύναμος -2
+\\giwrgoskaralis.2013090.cscw\\
+
 shame	-2
+ντροπή
+\\giwrgoskaralis.2013090.cscw\\
+
 shamed	-2
+ντροπισαμενοι -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 shameful	-2
+αισχρός -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 share	1
+μοιράζομαι 1
+\\giwrgoskaralis.2013090.cscw\\
+
 shared	1
+κατανεμημενο 1
+\\giwrgoskaralis.2013090.cscw\\
+
 shares	1
+μερίδια 1
+\\giwrgoskaralis.2013090.cscw\\
+
+
 shattered	-2
+διαλυμένο -2
+\\giwrgoskaralis.2013090.cscw\\
+
 shit	-4
+σκατά -4
+\\giwrgoskaralis.2013090.cscw\\
+
 shithead	-4
+μαλακας -4
+\\giwrgoskaralis.2013090.cscw\\
+
+
 shitty	-3
+μες στα σκατά -3
+\\giwrgoskaralis.2013090.cscw\\
+
 shock	-2
+σοκ -2
+\\giwrgoskaralis.2013090.cscw\\
+
 shocked	-2
+σοκαρισμένος-2
+\\giwrgoskaralis.2013090.cscw\\
+
 shocking	-2
+σοκαριστικό -2
+\\giwrgoskaralis.2013090.cscw\\
+
 shocks	-2
+σοκ-2
+\\giwrgoskaralis.2013090.cscw\\
+
 shoody	-2
 shoot	-1
+πυροβολώ -1
+\\giwrgoskaralis.2013090.cscw\\
+
+
 short-sighted	-2
+μύωπας -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 short-sightedness	-2
+μυωπία
+\\giwrgoskaralis.2013090.cscw\\
+
 shortage	-2
+έλλειψη -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 shortages	-2
+ελλείψεις -2
+\\giwrgoskaralis.2013090.cscw\\
+
 shrew	-4
+στρίγγλα -4
+\\giwrgoskaralis.2013090.cscw\\
+
+
 shy	-1
+ντροπαλός -1 
+\\giwrgoskaralis.2013090.cscw\\
+
 sick	-2
+άρρωστος -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 sickness	-2
+αρρώστια -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 side-effect	-2
+παρενέργεια -2 
+\\giwrgoskaralis.2013090.cscw\\
+
+
 side-effects	-2
+παρενέργειες -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 sigh	-2
+νροπή -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 significance	1
+μεγάλης σημασίας 1 
+\\giwrgoskaralis.2013090.cscw\\
+
+
 significant	1
+σημαντικό 1
+\\giwrgoskaralis.2013090.cscw\\
+
+
 silencing	-1
+σιωπηλό -1
+\\giwrgoskaralis.2013090.cscw\\
+
+
 silly	-1
+χαζό -1
+\\giwrgoskaralis.2013090.cscw\\
+
+
 simplicity	1
+απλότητα 1
+\\giwrgoskaralis.2013090.cscw\\
+
+
 sin	-2
+αμαρτία -2
+\\giwrgoskaralis.2013090.cscw\\
+
+
 sincere	2
+ειλικρηνής 2
+\\giwrgoskaralis.2013090.cscw\\
+
 sincerely	2
+ειλικρινά 2
+\\giwrgoskaralis.2013090.cscw\\
+
 sincerest	2
+ειλικρινέστατα 2
+\\giwrgoskaralis.2013090.cscw\\
+
 sincerity	2
+ειλικρίνια 2
+\\giwrgoskaralis.2013090.cscw\\
+
 sinful	-3
+γεμάτο αμαρτία -3
+\\giwrgoskaralis.2013090.cscw\\
+
 singleminded	-2
 sinister	-2
 sins	-2
