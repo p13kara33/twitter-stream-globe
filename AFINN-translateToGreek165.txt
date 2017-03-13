@@ -2697,6 +2697,7 @@ self-abuse	-2
 self-confident	2
 self-contradictory	-2
 self-deluded	-2
+
 selfish	-3
 εγωιστής -3
 \\giwrgoskaralis.2013090.cscw\\
@@ -2828,7 +2829,7 @@ short-sighted	-2
 
 
 short-sightedness	-2
-μυωπία
+μυωπία -2
 \\giwrgoskaralis.2013090.cscw\\
 
 shortage	-2
@@ -2905,7 +2906,7 @@ sin	-2
 
 
 sincere	2
-ειλικρηνής 2
+ειλικρινής 2
 \\giwrgoskaralis.2013090.cscw\\
 
 sincerely	2
@@ -2917,7 +2918,7 @@ sincerest	2
 \\giwrgoskaralis.2013090.cscw\\
 
 sincerity	2
-ειλικρίνια 2
+ειλικρίνεια 2
 \\giwrgoskaralis.2013090.cscw\\
 
 sinful	-3
