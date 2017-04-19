@@ -95,7 +95,7 @@ TweetBeacon.prototype.addShockwave = function () {
 
   // Animates scale/size of shockwave
   TweenLite.to(circle.scale, time, {
-    x: 1.0, y: 10.0, z: 10.0,
+    x: 100.0, y: 100.0, z: 100.0,
     ease: Quart.easeOut,
     onComplete: function () {
       // remove when animation completes to keep number of object in scene to a minimum
