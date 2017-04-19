@@ -76,7 +76,7 @@ TweetBeacon.prototype.addShockwave = function () {
     opacity: 1.0
   });
 
-  var radius = 200;
+  var radius = 20000;
   var segments = 16 ;
 
   var circleGeometry = new THREE.CircleGeometry(radius, segments);        
