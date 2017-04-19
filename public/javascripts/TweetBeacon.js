@@ -95,7 +95,7 @@ TweetBeacon.prototype.addShockwave = function () {
 
   // Animates scale/size of shockwave
   TweenLite.to(circle.scale, time, {
-    x: 100.0, y: 100.0, z: 100.0,
+    x: 1.0, y: 1.0, z: 1.0,
     ease: Quart.easeOut,
     onComplete: function () {
       // remove when animation completes to keep number of object in scene to a minimum
@@ -110,7 +110,7 @@ TweetBeacon.prototype.addShockwave = function () {
 TweetBeacon.prototype.show = function () {
 
   var self = this;
-  var time = 4;
+  var time = 16;
 
   // Define the line height based on the sentiment score
   this.beamHeight = 400 + Math.abs(this.tweet.sentiment.score) * 100
