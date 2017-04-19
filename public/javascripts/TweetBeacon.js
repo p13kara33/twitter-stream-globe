@@ -110,7 +110,7 @@ TweetBeacon.prototype.addShockwave = function () {
 TweetBeacon.prototype.show = function () {
 
   var self = this;
-  var time = 16;
+  var time = 4;
 
   // Define the line height based on the sentiment score
   this.beamHeight = 400 + Math.abs(this.tweet.sentiment.score) * 100
