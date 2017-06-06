@@ -5,7 +5,7 @@
 	// Constants
 	POS_X = 0,
 	POS_Y = 0,
-	POS_Z = 2000,
+	POS_Z = 1500,
 	FOV = 45,
 	NEAR = 1,
 	FAR = 150000,
